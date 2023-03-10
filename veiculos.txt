@@ -1,0 +1,30 @@
+Equação horária do carro para ver onde que o carro e o caminhão se cruzam:
+x¹ = v¹*t
+
+O caminhão sai há 100 km distante do ponto:
+x² = 100km - v²*t
+
+o caminhão tem 2 pedágios e perde 5 minutos em cada um deles:
+Tso = 100/80 = 1,25h
+
+Com os pedágios o tempo de viagem do caminnhão é de:
+1,25h + 0,17h = 1,42h
+
+Sua Vm:
+v² = 100/1,42 = 70,6km/h
+
+Com isso, o ponto em que eles de cruzam é:
+t = x¹/v¹
+
+t = x² - 100/-v²
+x¹ = x²
+x/v¹ = x-100/-v²
+
+Regra de três:
+-v²*x = -v¹*100 - x
+
+x = v¹*100 / v¹ + v²
+
+x = 110*100/ 100 + 70,6
+
+x = 60,9km
